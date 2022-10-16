@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+body > :first-child {
+    margin-bottom: 50px;
+}
+
+form > div {
+    margin-bottom: 10px;
+}
+
+
+
+#countryImg {
+    width: 150px;
+    height: 100px;
+}
+
+.btnDiv {
+    margin-top: 10px;
+}
